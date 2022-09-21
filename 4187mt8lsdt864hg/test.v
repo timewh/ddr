@@ -20,7 +20,7 @@
 *                IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR
 *                A PARTICULAR PURPOSE, OR AGAINST INFRINGEMENT.
 *
-*                Copyright © 1998 Micron Semiconductor Products, Inc.
+*                Copyright Â© 1998 Micron Semiconductor Products, Inc.
 *                All rights researved
 *
 ******************************************************************************/
